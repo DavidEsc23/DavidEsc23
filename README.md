@@ -2,7 +2,7 @@
 
 <br clear="both">
 
-<p align="center">I’m a 7th cuarter Software Engineering student with a passion for technology and continuous learning. My focus is on DevOps and Linux, and I'm actively working on developing skills to contribute to automation, infrastructure management, and system optimization. Always eager to tackle new challenges and improve every day!</p>
+<p align="justify">I am a Software Engineering student currently in my 7th semester. I am deeply interested in the field of DevOps and I am actively preparing myself for this career path. I consider myself a calm person who enjoys challenges and learning new things to grow both personally and professionally.</p>
 
 ###
 
@@ -33,11 +33,14 @@
 ###
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" height="30" alt="terraform logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" height="30" alt="jenkins logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="30" alt="amazon aws logo"  />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="30" alt="aws logo"  />
+
 </div>
 
 ###
@@ -49,10 +52,10 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/david-azael-hern%C3%A1ndez-escudero-31428b325/">
+  <a href="www.linkedin.com/in/davidescudero23">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:davidescuderodevopsl@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 </div>
